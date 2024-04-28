@@ -27,7 +27,6 @@ I am a Computer engineer grad student from Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 
   <div>
-  [![guilhermeaam's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeaam)](https://github.com/guilhermeaam/github-readme-stats)
   
 
 
